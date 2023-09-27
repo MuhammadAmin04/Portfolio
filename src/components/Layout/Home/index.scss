@@ -1,0 +1,31 @@
+@media screen and (max-width: 768px) {
+  .container {
+    width: 708px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+  .animation{
+    max-width: 600px;
+  }
+  .desc{
+    max-width: 690px;
+  }
+}
+
+
+@media screen and (max-width: 575px) {
+  .nimadir{
+    padding: 0;
+  }
+  .container {
+    width: 576px;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .desc{
+    max-width: 340px;
+    font-size: small;
+    padding: 0;
+  }
+
+}
